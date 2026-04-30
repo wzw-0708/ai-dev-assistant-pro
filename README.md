@@ -142,6 +142,7 @@ python main.py
 * Python 3.10+
 * g++ 编译器
 * OpenAI API Key
+<img width="1106" height="459" alt="image" src="https://github.com/user-attachments/assets/2447d0c1-26c2-493d-a9a1-466e18e83101" />
 
 ---
 
